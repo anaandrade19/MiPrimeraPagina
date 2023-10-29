@@ -1,0 +1,48 @@
+*{
+font-family:'Bebas Neue', sans-serif;;
+font-size: 25px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+body{
+background-color: #e8ae96;
+}
+header{
+    -webkit-text-fill-color: beige;
+    background-image: url("https://w0.peakpx.com/wallpaper/618/730/HD-wallpaper-nappy-time-cute-fall-autumn-red-panda-animal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+main{
+    background-image: url("imagenes/fondosdepandasrojos.jpg");
+    background-size: auto;
+}
+    
+
+/* comentario */
+p{
+    color: #5a1e4a;
+    font-size: 30px;
+}
+h3{
+    color: #5a1e4a;
+    font-size: 30px;
+}
+h5{
+    font-size: 20px;
+}
+.titulo1{
+    color: rgb(1, 12, 73);
+}
+img{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block
+}
